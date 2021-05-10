@@ -1,3 +1,4 @@
+<div style="direction:rtl;">
 # Alpine.js
 
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/alpinejs)
@@ -801,3 +802,5 @@ Since a policy applies to all scripts in your page, it's important that other ex
 Copyright © 2019-2021 Caleb Porzio and contributors
 
 Licensed under the MIT license, see [LICENSE.md](LICENSE.md) for details.
+
+</div>
