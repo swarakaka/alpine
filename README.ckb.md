@@ -19,7 +19,6 @@ Alpine.js دەستەبەری سروشتێکی کاردانەوەو ڕاگەیا�
 | Arabic | [**التوثيق باللغة العربية**](./README.ar.md) |
 | Chinese Simplified | [**简体中文文档**](./README.zh-CN.md) |
 | Chinese Traditional | [**繁體中文說明文件**](./README.zh-TW.md) |
-| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.zh-TW.md) |
 | German | [**Dokumentation in Deutsch**](./README.de.md) |
 | Indonesian | [**Dokumentasi Bahasa Indonesia**](./README.id.md) |
 | Japanese | [**日本語ドキュメント**](./README.ja.md) |
@@ -30,6 +29,7 @@ Alpine.js دەستەبەری سروشتێکی کاردانەوەو ڕاگەیا�
 | Turkish | [**Türkçe Dokümantasyon**](./README.tr.md) |
 | Français | [**Documentation en Français**](./README.fr.md) |
 | Korean | [**한국어 문서**](./README.ko.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## دامەزراندن
 
