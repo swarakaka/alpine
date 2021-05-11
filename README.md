@@ -29,6 +29,7 @@ Think of it like [Tailwind](https://tailwindcss.com/) for JavaScript.
 | Turkish | [**Türkçe Dokümantasyon**](./README.tr.md) |
 | Français | [**Documentation en Français**](./README.fr.md) |
 | Korean | [**한국어 문서**](./README.ko.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## Install
 
