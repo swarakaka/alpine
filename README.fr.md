@@ -24,6 +24,7 @@ C'est un peu le [Tailwind](https://tailwindcss.com/) du JavaScript.
 | Russe | [**Документация на русском**](./README.ru.md) |
 | Espagnol | [**Documentación en Español**](./README.es.md) |
 | Français | [**Documentation en Français**](./README.fr.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## Installation
 
