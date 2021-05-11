@@ -29,6 +29,7 @@ Unsere Philosophie erinnert dich vielleicht an [Tailwind](https://tailwindcss.co
 | Türkisch | [**Türkçe Dokümantasyon**](./README.tr.md) |
 | Französisch | [**Documentation en Français**](./README.fr.md) |
 | Koreanisch | [**한국어 문서**](./README.ko.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## Installation
 
