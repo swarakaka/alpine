@@ -28,6 +28,7 @@ Tenk på det som [Tailwind](https://tailwindcss.com/) for JavaScript.
 | Tyrkisk | [**Türkçe Dokümantasyon**](./README.tr.md) |
 | Fransk | [**Documentation en Français**](./README.fr.md) |
 | Koreansk | [**한국어 문서**](./README.ko.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## Installasjon
 
