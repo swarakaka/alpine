@@ -33,6 +33,7 @@ Alpine.js ماهیت ری اکتیو و اعلانی فریم ورک های بز
 | ترکی | [**Türkçe Dokümantasyon**](./README.tr.md) |
 | فرانسوی | [**Documentation en Français**](./README.fr.md) |
 | کره ای | [**한국어 문서**](./README.ko.md) |
+| کوردی | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## نصب
 
