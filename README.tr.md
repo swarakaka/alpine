@@ -24,6 +24,7 @@ Bunu [Tailwind](https://tailwindcss.com/) 'ın JavaScript versiyonu olarak düş
 | Russian | [**Документация на русском**](./README.ru.md) |
 | Spanish | [**Documentación en Español**](./README.es.md) |
 | Turkish | [**Türkçe Dökümantasyon**](./README.tr.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## Kurulum
 
