@@ -28,6 +28,7 @@ Anggap saja seperti [Tailwind](https://tailwindcss.com/) untuk JavaScript.
 | Russian | [**Документация на русском**](./README.ru.md) |
 | Spanish | [**Documentación en Español**](./README.es.md) |
 | Turkish | [**Türkçe Dokümantasyon**](./README.tr.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 
 ## Instalasi
 
