@@ -1,4 +1,4 @@
-<div style="direction:rtl;">
+<div direction="rtl">
 # Alpine.js
 
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/alpinejs)
@@ -20,7 +20,7 @@ Alpine.js دەستەبەری سروشتێکی کاردانەوەو ڕاگەیا�
 | Arabic | [**التوثيق باللغة العربية**](./README.ar.md) |
 | Chinese Simplified | [**简体中文文档**](./README.zh-CN.md) |
 | Chinese Traditional | [**繁體中文說明文件**](./README.zh-TW.md) |
-| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.zh-TW.md) |
+| Kurdish (Sorani) Traditional | [**بەڵگەنامە بەزمانی کوردیی**](./README.ckb.md) |
 | German | [**Dokumentation in Deutsch**](./README.de.md) |
 | Indonesian | [**Dokumentasi Bahasa Indonesia**](./README.id.md) |
 | Japanese | [**日本語ドキュメント**](./README.ja.md) |
